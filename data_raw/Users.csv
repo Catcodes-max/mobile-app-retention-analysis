@@ -1,0 +1,1222 @@
+user_id,country,subscription_status
+USR10001,United States,free
+USR10001,United States,free
+USR10001,United States,free
+USR10001,United States,free
+USR10002,India,trial
+USR10002,India,trial
+USR10002,India,trial
+USR10002,India,trial
+USR10003,United Kingdom,premium
+USR10003,United Kingdom,premium
+USR10003,United Kingdom,premium
+USR10004,Germany,free
+USR10004,Germany,free
+USR10005,United States,premium
+USR10005,United States,premium
+USR10005,United States,premium
+USR10006,Australia,trial
+USR10006,Australia,trial
+USR10006,Australia,trial
+USR10006,Australia,trial
+USR10007,Canada,premium
+USR10007,Canada,premium
+USR10007,Canada,premium
+USR10008,France,free
+USR10008,France,free
+USR10009,United Kingdom,premium
+USR10009,United Kingdom,premium
+USR10009,United Kingdom,premium
+USR10010,Brazil,trial
+USR10010,Brazil,trial
+USR10010,Brazil,trial
+USR10011,United States,free
+USR10011,United States,free
+USR10012,Japan,premium
+USR10012,Japan,premium
+USR10013,India,premium
+USR10013,India,premium
+USR10013,India,premium
+USR10014,Canada,trial
+USR10014,Canada,trial
+USR10015,United Kingdom,premium
+USR10015,United Kingdom,premium
+USR10015,United Kingdom,premium
+USR10016,Germany,free
+USR10016,Germany,free
+USR10016,Germany,free
+USR10017,Brazil,trial
+USR10017,Brazil,trial
+USR10017,Brazil,trial
+USR10018,Japan,premium
+USR10018,Japan,premium
+USR10018,Japan,premium
+USR10019,Australia,free
+USR10019,Australia,free
+USR10020,United States,premium
+USR10020,United States,premium
+USR10020,United States,premium
+USR10021,France,trial
+USR10021,France,trial
+USR10022,Germany,free
+USR10022,Germany,free
+USR10022,Germany,free
+USR10023,Brazil,premium
+USR10023,Brazil,premium
+USR10023,Brazil,premium
+USR10024,Australia,free
+USR10024,Australia,free
+USR10025,Canada,trial
+USR10025,Canada,trial
+USR10026,India,premium
+USR10026,India,premium
+USR10027,United States,premium
+USR10027,United States,premium
+USR10027,United States,premium
+USR10027,United States,premium
+USR10028,United Kingdom,premium
+USR10028,United Kingdom,premium
+USR10028,United Kingdom,premium
+USR10029,Germany,free
+USR10029,Germany,free
+USR10029,Germany,free
+USR10030,Brazil,trial
+USR10030,Brazil,trial
+USR10031,Canada,premium
+USR10031,Canada,premium
+USR10031,Canada,premium
+USR10032,United States,free
+USR10032,United States,free
+USR10033,United Kingdom,trial
+USR10033,United Kingdom,trial
+USR10034,Germany,premium
+USR10034,Germany,premium
+USR10034,Germany,premium
+USR10035,Brazil,free
+USR10035,Brazil,free
+USR10036,Japan,premium
+USR10036,Japan,premium
+USR10036,Japan,premium
+USR10037,Australia,trial
+USR10037,Australia,trial
+USR10038,Canada,premium
+USR10038,Canada,premium
+USR10039,United States,premium
+USR10039,United States,premium
+USR10040,United Kingdom,free
+USR10040,United Kingdom,free
+USR10041,Germany,premium
+USR10041,Germany,premium
+USR10042,Brazil,trial
+USR10042,Brazil,trial
+USR10043,Japan,premium
+USR10043,Japan,premium
+USR10044,Australia,free
+USR10044,Australia,free
+USR10045,Canada,premium
+USR10045,Canada,premium
+USR10046,United States,trial
+USR10046,United States,trial
+USR10047,United Kingdom,premium
+USR10047,United Kingdom,premium
+USR10048,Germany,free
+USR10048,Germany,free
+USR10049,Brazil,premium
+USR10049,Brazil,premium
+USR10050,Japan,trial
+USR10050,Japan,trial
+USR10051,United States,premium
+USR10051,United States,premium
+USR10052,India,premium
+USR10052,India,premium
+USR10053,Canada,free
+USR10053,Canada,free
+USR10054,United Kingdom,trial
+USR10054,United Kingdom,trial
+USR10055,Germany,premium
+USR10055,Germany,premium
+USR10055,Germany,premium
+USR10056,United States,free
+USR10056,United States,free
+USR10057,India,premium
+USR10057,India,premium
+USR10057,India,premium
+USR10058,Brazil,trial
+USR10058,Brazil,trial
+USR10059,United Kingdom,premium
+USR10059,United Kingdom,premium
+USR10060,Canada,free
+USR10060,Canada,free
+USR10061,United States,premium
+USR10061,United States,premium
+USR10062,India,trial
+USR10062,India,trial
+USR10063,Brazil,premium
+USR10063,Brazil,premium
+USR10064,United Kingdom,free
+USR10064,United Kingdom,free
+USR10065,Canada,premium
+USR10065,Canada,premium
+USR10066,United States,trial
+USR10066,United States,trial
+USR10067,Brazil,premium
+USR10067,Brazil,premium
+USR10068,India,premium
+USR10068,India,premium
+USR10069,Australia,free
+USR10069,Australia,free
+USR10070,Canada,premium
+USR10070,Canada,premium
+USR10071,United States,trial
+USR10071,United States,trial
+USR10072,India,premium
+USR10072,India,premium
+USR10073,FRA,free
+USR10073,FRA,free
+USR10074,United Kingdom,premium
+USR10074,United Kingdom,premium
+USR10075,Germany,trial
+USR10075,Germany,trial
+USR10076,Brazil,premium
+USR10076,Brazil,premium
+USR10077,Japan,free
+USR10077,Japan,free
+USR10078,Canada,premium
+USR10078,Canada,premium
+USR10079,United States,trial
+USR10079,United States,trial
+USR10080,India,premium
+USR10080,India,premium
+USR10081,Australia,free
+USR10081,Australia,free
+USR10082,Canada,premium
+USR10082,Canada,premium
+USR10083,United Kingdom,trial
+USR10083,United Kingdom,trial
+USR10084,United States,premium
+USR10084,United States,premium
+USR10085,India,free
+USR10085,India,free
+USR10086,Brazil,premium
+USR10086,Brazil,premium
+USR10087,Japan,trial
+USR10087,Japan,trial
+USR10088,Australia,premium
+USR10088,Australia,premium
+USR10089,United Kingdom,trial
+USR10089,United Kingdom,trial
+USR10090,United States,free
+USR10090,United States,free
+USR10091,Germany,premium
+USR10091,Germany,premium
+USR10092,Brazil,trial
+USR10092,Brazil,trial
+USR10093,Japan,premium
+USR10093,Japan,premium
+USR10094,Australia,free
+USR10094,Australia,free
+USR10095,Canada,premium
+USR10095,Canada,premium
+USR10096,United Kingdom,trial
+USR10096,United Kingdom,trial
+USR10097,United States,premium
+USR10097,United States,premium
+USR10098,India,free
+USR10098,India,free
+USR10099,Brazil,premium
+USR10099,Brazil,premium
+USR10100,Japan,trial
+USR10100,Japan,trial
+USR10101,United Kingdom,premium
+USR10101,United Kingdom,premium
+USR10102,Canada,free
+USR10102,Canada,free
+USR10103,United States,premium
+USR10103,United States,premium
+USR10104,India,premium
+USR10104,India,premium
+USR10105,Brazil,trial
+USR10105,Brazil,trial
+USR10106,Japan,premium
+USR10106,Japan,premium
+USR10107,United Kingdom,free
+USR10107,United Kingdom,free
+USR10108,United States,premium
+USR10108,United States,premium
+USR10109,India,trial
+USR10109,India,trial
+USR10110,Brazil,premium
+USR10110,Brazil,premium
+USR10111,Japan,trial
+USR10111,Japan,trial
+USR10112,United Kingdom,
+USR10112,United Kingdom,free
+USR10113,United States,trial
+USR10113,United States,trial
+USR10113,United States,trial
+USR10114,India,premium
+USR10114,India,premium
+USR10114,India,premium
+USR10115,Canada,free
+USR10115,Canada,free
+USR10116,Germany,trial
+USR10116,Germany,trial
+USR10117,Brazil,premium
+USR10117,Brazil,premium
+USR10118,Japan,free
+USR10118,Japan,free
+USR10119,Australia,premium
+USR10119,Australia,premium
+USR10120,United States,trial
+USR10120,United States,trial
+USR10121,India,premium
+USR10121,India,premium
+USR10122,Brazil,free
+USR10122,Brazil,free
+USR10123,Canada,premium
+USR10123,Canada,premium
+USR10124,United Kingdom,trial
+USR10124,United Kingdom,trial
+USR10125,Australia,free
+USR10125,Australia,free
+USR10126,United States,premium
+USR10126,United States,premium
+USR10127,India,free
+USR10127,India,free
+USR10128,Germany,premium
+USR10128,Germany,premium
+USR10129,Brazil,trial
+USR10129,Brazil,trial
+USR10130,United Kingdom,free
+USR10130,United Kingdom,free
+USR10131,Australia,premium
+USR10131,Australia,premium
+USR10132,Canada,trial
+USR10132,Canada,trial
+USR10133,United States,premium
+USR10133,United States,premium
+USR10134,Germany,free
+USR10134,Germany,free
+USR10135,United Kingdom,premium
+USR10135,United Kingdom,premium
+USR10136,Brazil,free
+USR10136,Brazil,free
+USR10137,Japan,premium
+USR10137,Japan,premium
+USR10138,Australia,trial
+USR10138,Australia,trial
+USR10139,Canada,free
+USR10139,Canada,free
+USR10140,United States,premium
+USR10140,United States,premium
+USR10141,United Kingdom,free
+USR10141,United Kingdom,free
+USR10142,Germany,premium
+USR10142,Germany,premium
+USR10143,Brazil,free
+USR10143,Brazil,free
+USR10144,India,premium
+USR10144,India,premium
+USR10145,Canada,trial
+USR10145,Canada,trial
+USR10146,United States,premium
+USR10146,United States,premium
+USR10147,United Kingdom,free
+USR10147,United Kingdom,free
+USR10148,Germany,premium
+USR10148,Germany,premium
+USR10149,Brazil,trial
+USR10149,Brazil,trial
+USR10150,India,premium
+USR10150,India,premium
+USR10151,Canada,free
+USR10151,Canada,free
+USR10152,United States,premium
+USR10152,United States,premium
+USR10153,United Kingdom,trial
+USR10153,United Kingdom,trial
+USR10154,Brazil,premium
+USR10154,Brazil,premium
+USR10155,Japan,free
+USR10155,Japan,free
+USR10156,Australia,premium
+USR10156,Australia,premium
+USR10157,United States,trial
+USR10157,United States,trial
+USR10158,United Kingdom,premium
+USR10158,United Kingdom,premium
+USR10159,Germany,free
+USR10159,Germany,free
+USR10160,Brazil,premium
+USR10160,Brazil,premium
+USR10161,Japan,free
+USR10161,Japan,free
+USR10162,Australia,premium
+USR10162,Australia,premium
+USR10163,United States,trial
+USR10163,United States,trial
+USR10164,United Kingdom,free
+USR10164,United Kingdom,free
+USR10165,Germany,premium
+USR10165,Germany,premium
+USR10166,Brazil,free
+USR10166,Brazil,free
+USR10167,Japan,premium
+USR10167,Japan,premium
+USR10168,Australia,free
+USR10168,Australia,free
+USR10169,United States,premium
+USR10169,United States,premium
+USR10170,United Kingdom,free
+USR10170,United Kingdom,free
+USR10171,Germany,premium
+USR10171,Germany,premium
+USR10172,Brazil,free
+USR10172,Brazil,free
+USR10173,Japan,premium
+USR10173,Japan,premium
+USR10174,Australia,free
+USR10174,Australia,free
+USR10175,Canada,premium
+USR10175,Canada,premium
+USR10176,United States,trial
+USR10176,United States,trial
+USR10177,United Kingdom,free
+USR10177,United Kingdom,free
+USR10178,Germany,premium
+USR10178,Germany,premium
+USR10179,Brazil,premium
+USR10179,Brazil,premium
+USR10180,Japan,free
+USR10180,Japan,free
+USR10181,Australia,premium
+USR10181,Australia,premium
+USR10182,Canada,free
+USR10182,Canada,free
+USR10183,United States,premium
+USR10183,United States,premium
+USR10184,United Kingdom,free
+USR10184,United Kingdom,free
+USR10185,Germany,premium
+USR10185,Germany,premium
+USR10186,Brazil,free
+USR10186,Brazil,free
+USR10187,Japan,premium
+USR10187,Japan,premium
+USR10188,Australia,free
+USR10188,Australia,free
+USR10189,Canada,premium
+USR10189,Canada,premium
+USR10190,United States,free
+USR10190,United States,free
+USR10191,United Kingdom,premium
+USR10191,United Kingdom,premium
+USR10192,Germany,free
+USR10192,Germany,free
+USR10193,Brazil,trial
+USR10193,Brazil,trial
+USR10194,India,premium
+USR10194,India,premium
+USR10195,Canada,free
+USR10195,Canada,free
+USR10196,United States,premium
+USR10196,United States,premium
+USR10197,United Kingdom,free
+USR10197,United Kingdom,free
+USR10198,Brazil,trial
+USR10198,Brazil,trial
+USR10199,Japan,premium
+USR10199,Japan,premium
+USR10200,Australia,free
+USR10200,Australia,free
+USR10201,Canada,premium
+USR10201,Canada,premium
+USR10202,United States,free
+USR10202,United States,free
+USR10203,United Kingdom,premium
+USR10203,United Kingdom,premium
+USR10204,Brazil,free
+USR10204,Brazil,free
+USR10205,India,premium
+USR10205,India,premium
+USR10206,Canada,premium
+USR10206,Canada,premium
+USR10207,United States,free
+USR10207,United States,free
+USR10208,United Kingdom,premium
+USR10208,United Kingdom,premium
+USR10209,Germany,free
+USR10209,Germany,free
+USR10210,Brazil,premium
+USR10210,Brazil,premium
+USR10211,Japan,free
+USR10211,Japan,free
+USR10212,Australia,premium
+USR10212,Australia,premium
+USR10213,Canada,free
+USR10213,Canada,free
+USR10214,United States,premium
+USR10214,United States,premium
+USR10215,United Kingdom,premium
+USR10215,United Kingdom,premium
+USR10216,Germany,free
+USR10216,Germany,free
+USR10217,Brazil,premium
+USR10217,Brazil,premium
+USR10218,Japan,free
+USR10218,Japan,free
+USR10219,Australia,premium
+USR10219,Australia,premium
+USR10220,Canada,free
+USR10220,Canada,free
+USR10221,United States,premium
+USR10221,United States,premium
+USR10222,United Kingdom,premium
+USR10222,United Kingdom,premium
+USR10223,Germany,free
+USR10223,Germany,free
+USR10224,Brazil,premium
+USR10224,Brazil,premium
+USR10225,Japan,free
+USR10225,Japan,free
+USR10226,Australia,premium
+USR10226,Australia,premium
+USR10227,Canada,free
+USR10227,Canada,free
+USR10228,United States,premium
+USR10228,United States,premium
+USR10229,United Kingdom,free
+USR10229,United Kingdom,free
+USR10230,Germany,premium
+USR10230,Germany,premium
+USR10231,Brazil,free
+USR10231,Brazil,free
+USR10232,Japan,premium
+USR10232,Japan,premium
+USR10233,Australia,free
+USR10233,Australia,free
+USR10234,Canada,premium
+USR10234,Canada,premium
+USR10235,United States,free
+USR10235,United States,free
+USR10236,United Kingdom,premium
+USR10236,United Kingdom,premium
+USR10237,Germany,free
+USR10237,Germany,free
+USR10238,Brazil,premium
+USR10238,Brazil,premium
+USR10239,Japan,free
+USR10239,Japan,free
+USR10240,Australia,premium
+USR10240,Australia,premium
+USR10241,Canada,free
+USR10241,Canada,free
+USR10242,United States,premium
+USR10242,United States,premium
+USR10243,United Kingdom,premium
+USR10243,United Kingdom,premium
+USR10244,India,premium
+USR10244,India,premium
+USR10244,India,premium
+USR10245,Brazil,trial
+USR10245,Brazil,trial
+USR10246,Canada,premium
+USR10246,Canada,premium
+USR10247,United Kingdom,free
+USR10247,United Kingdom,free
+USR10247,United Kingdom,free
+USR10248,United States,trial
+USR10248,United States,trial
+USR10249,India,premium
+USR10249,India,premium
+USR10250,Brazil,premium
+USR10250,Brazil,premium
+USR10250,Brazil,premium
+USR10251,Canada,trial
+USR10251,Canada,trial
+USR10252,United Kingdom,premium
+USR10252,United Kingdom,premium
+USR10253,Germany,free
+USR10253,Germany,free
+USR10254,United States,trial
+USR10254,United States,trial
+USR10255,India,premium
+USR10255,India,premium
+USR10256,Brazil,free
+USR10256,Brazil,free
+USR10257,Canada,premium
+USR10257,Canada,premium
+USR10258,United Kingdom,free
+USR10258,United Kingdom,free
+USR10259,Germany,trial
+USR10259,Germany,trial
+USR10260,United States,premium
+USR10260,United States,premium
+USR10261,United Kingdom,free
+USR10261,United Kingdom,free
+USR10262,Brazil,free
+USR10262,Brazil,free
+USR10263,Japan,premium
+USR10263,Japan,premium
+USR10264,Australia,free
+USR10264,Australia,free
+USR10265,United States,premium
+USR10265,United States,premium
+USR10266,United Kingdom,free
+USR10266,United Kingdom,free
+USR10267,Germany,premium
+USR10267,Germany,premium
+USR10268,Brazil,free
+USR10268,Brazil,free
+USR10269,Japan,premium
+USR10269,Japan,premium
+USR10270,Australia,free
+USR10270,Australia,free
+USR10271,United States,trial
+USR10271,United States,trial
+USR10272,United Kingdom,premium
+USR10272,United Kingdom,premium
+USR10273,Germany,free
+USR10273,Germany,free
+USR10274,Brazil,premium
+USR10274,Brazil,premium
+USR10275,Japan,free
+USR10275,Japan,free
+USR10276,Australia,premium
+USR10276,Australia,premium
+USR10277,United States,trial
+USR10277,United States,trial
+USR10278,United Kingdom,premium
+USR10278,United Kingdom,premium
+USR10279,Germany,free
+USR10279,Germany,free
+USR10280,Brazil,premium
+USR10280,Brazil,premium
+USR10280,Brazil,premium
+USR10281,Japan,free
+USR10281,Japan,free
+USR10282,Australia,premium
+USR10282,Australia,premium
+USR10283,United States,trial
+USR10283,United States,trial
+USR10284,United Kingdom,premium
+USR10284,United Kingdom,premium
+USR10285,Germany,free
+USR10285,Germany,free
+USR10286,Brazil,premium
+USR10286,Brazil,premium
+USR10287,Japan,free
+USR10287,Japan,free
+USR10288,Australia,premium
+USR10288,Australia,premium
+USR10289,United States,trial
+USR10289,United States,trial
+USR10290,United Kingdom,premium
+USR10290,United Kingdom,premium
+USR10291,Germany,free
+USR10291,Germany,free
+USR10292,Brazil,premium
+USR10292,Brazil,premium
+USR10293,Japan,free
+USR10293,Japan,free
+USR10294,United States,premium
+USR10294,United States,premium
+USR10295,United Kingdom,free
+USR10295,United Kingdom,free
+USR10296,Germany,premium
+USR10296,Germany,premium
+USR10297,Brazil,free
+USR10297,Brazil,free
+USR10298,Japan,premium
+USR10298,Japan,premium
+USR10299,Australia,free
+USR10299,Australia,free
+USR10300,Canada,premium
+USR10300,Canada,premium
+USR10301,United States,trial
+USR10301,United States,trial
+USR10302,United Kingdom,premium
+USR10302,United Kingdom,premium
+USR10303,Germany,free
+USR10303,Germany,free
+USR10304,Brazil,premium
+USR10304,Brazil,premium
+USR10305,Japan,free
+USR10305,Japan,free
+USR10306,Australia,premium
+USR10306,Australia,premium
+USR10307,Canada,free
+USR10307,Canada,free
+USR10308,United States,premium
+USR10308,United States,premium
+USR10309,United Kingdom,premium
+USR10309,United Kingdom,premium
+USR10310,Germany,free
+USR10310,Germany,free
+USR10311,Brazil,premium
+USR10311,Brazil,premium
+USR10312,Japan,free
+USR10312,Japan,free
+USR10313,Australia,premium
+USR10313,Australia,premium
+USR10314,Canada,free
+USR10314,Canada,free
+USR10315,United States,trial
+USR10315,United States,trial
+USR10316,United Kingdom,premium
+USR10316,United Kingdom,premium
+USR10317,Germany,free
+USR10317,Germany,free
+USR10318,Brazil,premium
+USR10318,Brazil,premium
+USR10319,Japan,free
+USR10319,Japan,free
+USR10320,Australia,premium
+USR10320,Australia,premium
+USR10321,Canada,free
+USR10321,Canada,free
+USR10322,United States,trial
+USR10322,United States,trial
+USR10323,United Kingdom,premium
+USR10323,United Kingdom,premium
+USR10324,Germany,premium
+USR10324,Germany,premium
+USR10325,India,premium
+USR10325,India,premium
+USR10326,United States,trial
+USR10326,United States,trial
+USR10327,United Kingdom,premium
+USR10327,United Kingdom,premium
+USR10328,Brazil,free
+USR10328,Brazil,free
+USR10329,Japan,premium
+USR10329,Japan,premium
+USR10330,Australia,free
+USR10330,Australia,free
+USR10331,Canada,premium
+USR10331,Canada,premium
+USR10332,United States,trial
+USR10332,United States,trial
+USR10332,United States,trial
+USR10332,United States,trial
+USR10332,United States,trial
+USR10333,Australia,free
+USR10333,Australia,free
+USR10333,Australia,free
+USR10333,Australia,free
+USR10334,United Kingdom,premium
+USR10334,United Kingdom,premium
+USR10334,United Kingdom,premium
+USR10334,United Kingdom,premium
+USR10335,India,premium
+USR10335,India,premium
+USR10335,India,premium
+USR10335,India,premium
+USR10335,India,premium
+USR10336,Germany,trial
+USR10336,Germany,trial
+USR10336,Germany,trial
+USR10336,Germany,trial
+USR10336,Germany,trial
+USR10336,Germany,trial
+USR10337,France,free
+USR10337,France,free
+USR10337,France,free
+USR10337,France,free
+USR10338,Brazil,premium
+USR10338,Brazil,premium
+USR10338,Brazil,premium
+USR10338,Brazil,premium
+USR10338,Brazil,premium
+USR10339,Japan,trial
+USR10339,Japan,trial
+USR10339,Japan,trial
+USR10339,Japan,trial
+USR10340,Canada,premium
+USR10340,Canada,premium
+USR10340,Canada,premium
+USR10340,Canada,premium
+USR10340,Canada,premium
+USR10341,United States,free
+USR10341,United States,free
+USR10341,United States,free
+USR10341,United States,free
+USR10341,United States,free
+USR10342,Mexico,trial
+USR10342,Mexico,trial
+USR10342,Mexico,trial
+USR10342,Mexico,trial
+USR10343,Italy,free
+USR10343,Italy,free
+USR10343,Italy,free
+USR10343,Italy,free
+USR10343,Italy,free
+USR10344,United States,premium
+USR10344,United States,premium
+USR10344,United States,premium
+USR10344,United States,premium
+USR10345,Spain,trial
+USR10345,Spain,trial
+USR10345,Spain,trial
+USR10345,Spain,trial
+USR10345,Spain,trial
+USR10346,Netherlands,free
+USR10346,Netherlands,free
+USR10346,Netherlands,free
+USR10346,Netherlands,free
+USR10347,Sweden,premium
+USR10347,Sweden,premium
+USR10347,Sweden,premium
+USR10347,Sweden,premium
+USR10348,Norway,trial
+USR10348,Norway,trial
+USR10348,Norway,trial
+USR10348,Norway,trial
+USR10349,New Zealand,premium
+USR10349,New Zealand,premium
+USR10349,New Zealand,premium
+USR10349,New Zealand,premium
+USR10350,South Korea,free
+USR10350,South Korea,free
+USR10350,South Korea,free
+USR10350,South Korea,free
+USR10351,Singapore,trial
+USR10351,Singapore,trial
+USR10351,Singapore,trial
+USR10351,Singapore,trial
+USR10351,Singapore,trial
+USR10352,Denmark,premium
+USR10352,Denmark,premium
+USR10352,Denmark,premium
+USR10352,Denmark,premium
+USR10353,Switzerland,premium
+USR10353,Switzerland,premium
+USR10353,Switzerland,premium
+USR10353,Switzerland,premium
+USR10354,Austria,free
+USR10354,Austria,free
+USR10354,Austria,free
+USR10354,Austria,free
+USR10355,Belgium,trial
+USR10355,Belgium,trial
+USR10355,Belgium,trial
+USR10355,Belgium,trial
+USR10356,Portugal,premium
+USR10356,Portugal,premium
+USR10356,Portugal,premium
+USR10356,Portugal,premium
+USR10357,Ireland,free
+USR10357,Ireland,free
+USR10357,Ireland,free
+USR10357,Ireland,free
+USR10358,Finland,premium
+USR10358,Finland,premium
+USR10358,Finland,premium
+USR10358,Finland,premium
+USR10358,Finland,premium
+USR10359,Greece,trial
+USR10359,Greece,trial
+USR10359,Greece,trial
+USR10359,Greece,trial
+USR10360,Turkey,premium
+USR10360,Turkey,premium
+USR10360,Turkey,premium
+USR10360,Turkey,premium
+USR10361,Poland,free
+USR10361,Poland,free
+USR10361,Poland,free
+USR10361,Poland,free
+USR10362,United Arab Emirates,premium
+USR10362,United Arab Emirates,premium
+USR10362,United Arab Emirates,premium
+USR10362,United Arab Emirates,premium
+USR10362,United Arab Emirates,premium
+USR10363,Chile,trial
+USR10363,Chile,trial
+USR10363,Chile,trial
+USR10363,Chile,trial
+USR10364,Israel,premium
+USR10364,Israel,premium
+USR10364,Israel,premium
+USR10364,Israel,premium
+USR10365,Malaysia,free
+USR10365,Malaysia,free
+USR10365,Malaysia,free
+USR10365,Malaysia,free
+USR10366,Thailand,premium
+USR10366,Thailand,premium
+USR10366,Thailand,premium
+USR10366,Thailand,premium
+USR10367,South Africa,trial
+USR10367,South Africa,trial
+USR10367,South Africa,trial
+USR10367,South Africa,trial
+USR10368,Egypt,premium
+USR10368,Egypt,premium
+USR10368,Egypt,premium
+USR10368,Egypt,premium
+USR10369,Argentina,free
+USR10369,Argentina,free
+USR10369,Argentina,free
+USR10369,Argentina,free
+USR10370,Iceland,premium
+USR10370,Iceland,premium
+USR10370,Iceland,premium
+USR10370,Iceland,premium
+USR10371,Morocco,trial
+USR10371,Morocco,trial
+USR10371,Morocco,trial
+USR10371,Morocco,trial
+USR10372,Nigeria,free
+USR10372,Nigeria,free
+USR10372,Nigeria,free
+USR10372,Nigeria,free
+USR10373,Vietnam,trial
+USR10373,Vietnam,trial
+USR10373,Vietnam,trial
+USR10373,Vietnam,trial
+USR10374,Colombia,free
+USR10374,Colombia,free
+USR10374,Colombia,free
+USR10374,Colombia,free
+USR10375,Peru,trial
+USR10375,Peru,trial
+USR10375,Peru,trial
+USR10375,Peru,trial
+USR10376,Philippines,free
+USR10376,Philippines,free
+USR10376,Philippines,free
+USR10376,Philippines,free
+USR10377,Bangladesh,trial
+USR10377,Bangladesh,trial
+USR10377,Bangladesh,trial
+USR10377,Bangladesh,trial
+USR10378,Indonesia,premium
+USR10378,Indonesia,premium
+USR10378,Indonesia,premium
+USR10378,Indonesia,premium
+USR10379,Romania,free
+USR10379,Romania,free
+USR10379,Romania,free
+USR10379,Romania,free
+USR10380,Hungary,trial
+USR10380,Hungary,trial
+USR10380,Hungary,trial
+USR10380,Hungary,trial
+USR10381,Pakistan,free
+USR10381,Pakistan,free
+USR10381,Pakistan,free
+USR10381,Pakistan,free
+USR10382,Czech Republic,premium
+USR10382,Czech Republic,premium
+USR10382,Czech Republic,premium
+USR10382,Czech Republic,premium
+USR10383,Kenya,free
+USR10383,Kenya,free
+USR10383,Kenya,free
+USR10383,Kenya,free
+USR10384,Ukraine,trial
+USR10384,Ukraine,trial
+USR10384,Ukraine,trial
+USR10384,Ukraine,trial
+USR10385,Bulgaria,free
+USR10385,Bulgaria,free
+USR10385,Bulgaria,free
+USR10385,Bulgaria,free
+USR10386,Serbia,premium
+USR10386,Serbia,premium
+USR10386,Serbia,premium
+USR10386,Serbia,premium
+USR10387,Croatia,free
+USR10387,Croatia,free
+USR10387,Croatia,free
+USR10387,Croatia,free
+USR10388,Slovakia,trial
+USR10388,Slovakia,trial
+USR10388,Slovakia,trial
+USR10388,Slovakia,trial
+USR10389,Luxembourg,premium
+USR10389,Luxembourg,premium
+USR10389,Luxembourg,premium
+USR10389,Luxembourg,premium
+USR10390,Qatar,premium
+USR10390,Qatar,premium
+USR10390,Qatar,premium
+USR10390,Qatar,premium
+USR10391,Kuwait,trial
+USR10391,Kuwait,trial
+USR10391,Kuwait,trial
+USR10391,Kuwait,trial
+USR10392,Tunisia,free
+USR10392,Tunisia,free
+USR10392,Tunisia,free
+USR10392,Tunisia,free
+USR10393,Ecuador,trial
+USR10393,Ecuador,trial
+USR10393,Ecuador,trial
+USR10393,Ecuador,trial
+USR10394,Uruguay,premium
+USR10394,Uruguay,premium
+USR10394,Uruguay,premium
+USR10394,Uruguay,premium
+USR10395,Bolivia,free
+USR10395,Bolivia,free
+USR10395,Bolivia,free
+USR10395,Bolivia,free
+USR10395,Bolivia,free
+USR10396,Costa Rica,trial
+USR10396,Costa Rica,trial
+USR10396,Costa Rica,trial
+USR10396,Costa Rica,trial
+USR10397,Panama,free
+USR10397,Panama,free
+USR10397,Panama,free
+USR10397,Panama,free
+USR10398,Ghana,premium
+USR10398,Ghana,premium
+USR10398,Ghana,premium
+USR10398,Ghana,premium
+USR10399,Sri Lanka,trial
+USR10399,Sri Lanka,trial
+USR10399,Sri Lanka,trial
+USR10399,Sri Lanka,trial
+USR10400,Czech Republic,premium
+USR10400,Czech Republic,premium
+USR10400,Czech Republic,premium
+USR10400,Czech Republic,premium
+USR10401,Nepal,trial
+USR10401,Nepal,trial
+USR10401,Nepal,trial
+USR10401,Nepal,trial
+USR10402,Ethiopia,free
+USR10402,Ethiopia,free
+USR10402,Ethiopia,free
+USR10402,Ethiopia,free
+USR10403,Myanmar,trial
+USR10403,Myanmar,trial
+USR10403,Myanmar,trial
+USR10403,Myanmar,trial
+USR10404,Cambodia,premium
+USR10404,Cambodia,premium
+USR10404,Cambodia,premium
+USR10404,Cambodia,premium
+USR10405,Algeria,free
+USR10405,Algeria,free
+USR10405,Algeria,free
+USR10405,Algeria,free
+USR10406,North Macedonia,premium
+USR10406,North Macedonia,premium
+USR10406,North Macedonia,premium
+USR10406,North Macedonia,premium
+USR10407,Botswana,trial
+USR10407,Botswana,trial
+USR10407,Botswana,trial
+USR10407,Botswana,trial
+USR10408,Paraguay,free
+USR10408,Paraguay,free
+USR10408,Paraguay,free
+USR10408,Paraguay,free
+USR10409,Senegal,premium
+USR10409,Senegal,premium
+USR10409,Senegal,premium
+USR10409,Senegal,premium
+USR10410,Zambia,free
+USR10410,Zambia,free
+USR10410,Zambia,free
+USR10410,Zambia,free
+USR10411,Jordan,trial
+USR10411,Jordan,trial
+USR10411,Jordan,trial
+USR10411,Jordan,trial
+USR10412,Uganda,premium
+USR10412,Uganda,premium
+USR10412,Uganda,premium
+USR10412,Uganda,premium
+USR10413,Sudan,free
+USR10413,Sudan,free
+USR10413,Sudan,free
+USR10413,Sudan,free
+USR10414,Tanzania,premium
+USR10414,Tanzania,premium
+USR10414,Tanzania,premium
+USR10414,Tanzania,premium
+USR10415,Lebanon,trial
+USR10415,Lebanon,trial
+USR10415,Lebanon,trial
+USR10415,Lebanon,trial
+USR10416,Benin,free
+USR10416,Benin,free
+USR10416,Benin,free
+USR10416,Benin,free
+USR10417,Rwanda,trial
+USR10417,Rwanda,trial
+USR10417,Rwanda,trial
+USR10417,Rwanda,trial
+USR10418,Moldova,premium
+USR10418,Moldova,premium
+USR10418,Moldova,premium
+USR10418,Moldova,premium
+USR10419,Malta,trial
+USR10419,Malta,trial
+USR10419,Malta,trial
+USR10419,Malta,trial
+USR10420,Trinidad and Tobago,premium
+USR10420,Trinidad and Tobago,premium
+USR10420,Trinidad and Tobago,premium
+USR10420,Trinidad and Tobago,premium
+USR10421,Guatemala,trial
+USR10421,Guatemala,trial
+USR10421,Guatemala,trial
+USR10421,Guatemala,trial
+USR10422,Honduras,free
+USR10422,Honduras,free
+USR10422,Honduras,free
+USR10422,Honduras,free
+USR10423,Nicaragua,trial
+USR10423,Nicaragua,trial
+USR10423,Nicaragua,trial
+USR10423,Nicaragua,trial
+USR10424,El Salvador,premium
+USR10424,El Salvador,premium
+USR10424,El Salvador,premium
+USR10424,El Salvador,premium
+USR10425,Papua New Guinea,trial
+USR10425,Papua New Guinea,trial
+USR10425,Papua New Guinea,trial
+USR10425,Papua New Guinea,trial
+USR10426,Mauritius,premium
+USR10426,Mauritius,premium
+USR10426,Mauritius,premium
+USR10426,Mauritius,premium
+USR10427,Fiji,trial
+USR10427,Fiji,trial
+USR10427,Fiji,trial
+USR10427,Fiji,trial
+USR10428,Barbados,premium
+USR10428,Barbados,premium
+USR10428,Barbados,premium
+USR10428,Barbados,premium
+USR10429,Sierra Leone,trial
+USR10429,Sierra Leone,trial
+USR10429,Sierra Leone,trial
+USR10429,Sierra Leone,trial
+USR10430,Laos,premium
+USR10430,Laos,premium
+USR10430,Laos,premium
+USR10430,Laos,premium
+USR10431,Belarus,trial
+USR10431,Belarus,trial
+USR10431,Belarus,trial
+USR10431,Belarus,trial
+USR10432,Azerbaijan,premium
+USR10432,Azerbaijan,premium
+USR10432,Azerbaijan,premium
+USR10432,Azerbaijan,premium
+USR10433,Georgia,trial
+USR10433,Georgia,trial
+USR10433,Georgia,trial
+USR10433,Georgia,trial
+USR10434,Armenia,premium
+USR10434,Armenia,premium
+USR10434,Armenia,premium
+USR10434,Armenia,premium
+USR10435,Kazakhstan,trial
+USR10435,Kazakhstan,trial
+USR10435,Kazakhstan,trial
+USR10435,Kazakhstan,trial
+USR10436,Turkmenistan,premium
+USR10436,Turkmenistan,premium
+USR10436,Turkmenistan,premium
+USR10436,Turkmenistan,premium
+USR10437,Uzbekistan,trial
+USR10437,Uzbekistan,trial
+USR10437,Uzbekistan,trial
+USR10437,Uzbekistan,trial
+USR10438,Kyrgyzstan,premium
+USR10438,Kyrgyzstan,premium
+USR10438,Kyrgyzstan,premium
+USR10438,Kyrgyzstan,premium
+USR10439,Tajikistan,trial
+USR10439,Tajikistan,trial
+USR10439,Tajikistan,trial
+USR10439,Tajikistan,trial
+USR10440,Mongolia,premium
+USR10440,Mongolia,premium
+USR10440,Mongolia,premium
+USR10440,Mongolia,premium
+USR10441,Bhutan,trial
+USR10441,Bhutan,trial
+USR10441,Bhutan,trial
+USR10441,Bhutan,trial
+USR10442,Maldives,premium
+USR10442,Maldives,premium
+USR10442,Maldives,premium
+USR10442,Maldives,premium
+USR10443,Iceland,premium
+USR10443,Iceland,premium
+USR10443,Iceland,premium
+USR10443,Iceland,premium
+USR10444,Luxembourg,premium
+USR10444,Luxembourg,premium
+USR10444,Luxembourg,premium
+USR10444,Luxembourg,premium
+USR10445,Monaco,premium
+USR10445,Monaco,premium
+USR10445,Monaco,premium
+USR10445,Monaco,premium
+USR10446,Andorra,premium
+USR10446,Andorra,premium
+USR10446,Andorra,premium
+USR10446,Andorra,premium
+USR10447,San Marino,premium
+USR10447,San Marino,premium
+USR10447,San Marino,premium
+USR10447,San Marino,premium
+USR10448,Liechtenstein,premium
+USR10448,Liechtenstein,premium
+USR10448,Liechtenstein,premium
+USR10448,Liechtenstein,premium
+USR10449,Vatican City,premium
+USR10449,Vatican City,premium
+USR10449,Vatican City,premium
+USR10449,Vatican City,premium
+USR10450,Estonia,premium
+USR10450,Estonia,premium
+USR10450,Estonia,premium
+USR10450,Estonia,premium
+USR10451,Latvia,premium
+USR10451,Latvia,premium
+USR10451,Latvia,premium
+USR10451,Latvia,premium
+USR10452,Lithuania,premium
+USR10452,Lithuania,premium
+USR10452,Lithuania,premium
+USR10452,Lithuania,premium
+USR10453,Slovenia,premium
+USR10453,Slovenia,premium
+USR10453,Slovenia,premium
+USR10453,Slovenia,premium
+USR10454,Croatia,premium
+USR10454,Croatia,premium
+USR10454,Croatia,premium
+USR10454,Croatia,premium
+USR10455,Bosnia and Herzegovina,premium
+USR10455,Bosnia and Herzegovina,premium
+USR10455,Bosnia and Herzegovina,premium
+USR10455,Bosnia and Herzegovina,premium
+USR10456,North Macedonia,premium
+USR10456,North Macedonia,premium
+USR10456,North Macedonia,premium
+USR10456,North Macedonia,premium
+USR10457,Albania,trial
+USR10457,Albania,trial
+USR10457,Albania,trial
+USR10457,Albania,trial
+USR10458,Slovakia,premium
+USR10458,Slovakia,premium
+USR10458,Slovakia,premium
+USR10458,Slovakia,premium
+USR10459,Malta,premium
+USR10459,Malta,premium
+USR10459,Malta,premium
+USR10459,Malta,premium
